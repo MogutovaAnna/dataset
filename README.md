@@ -2,19 +2,19 @@
 
 | Название поля паспорта | Значение поля паспорта |
 |---|---|
-|`Идентификационный номер`| какой-то номер |
-|`Наименование набора данных`| Visa-free travel (where number of days is unknown or not applicable, such as freedom of movement), including tourist registration requirement for Seychelles|
-|`Описание набора данных`| Destinations that grant visa on arrival, basically visa-free |
-|`Владелец набора данных`| Includes  [ESTA](https://esta.cbp.dhs.gov/) (Electronic System for Travel Authorization for the USA) and [eTA](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta.html) (Electronic Travel Authorization for Canada), eVisas, [eVisitors](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/evisitor-651) in Australia, [eTourist cards](https://www.surinametourism.sr/tourist-card/) for Suriname, pre-enrollment for Ivory Coast, and UK's [electronic visa waivers](https://www.gov.uk/get-electronic-visa-waiver) |
-|`Ответственное лицо`| Obtaining a visa is required for travel. Includes Cuba's tourist cards |
-|`Номер телефона ответственного лица`| Travelling is banned for most people. This is perhaps the most dynamic category right now, with varying exemptions|
-|`Адрес электронной почты ответственного лица`| Includes rare tricky situations, such as war conflicts |
-|`Гиперссылка (URL) на набор`| Fan ID for the FIFA World Cup 2022 to enter Qatar in Nov-Dec 2022 |
+|`Идентификационный номер`| MogutovaAnna/dataset |
+|`Наименование набора данных`| Репрезентация России в крупнейшем медиа США: с 1991 по сегодняшний день |
+|`Описание набора данных`| Отобрав материалы NYT, выпущенные с 1991 по 2022, мы попытались выяснить, как изменялась репрезентация России в крупнейшем американском медиа и какие события могли на это повлиять |
+|`Владелец набора данных`| мы? или то, откуда мы это взяли |
+|`Ответственное лицо`| мы |
+|`Номер телефона ответственного лица`| 89216749906 |
+|`Адрес электронной почты ответственного лица`| mogutowa2003@gmail.com |
+|`Гиперссылка (URL) на набор`| https://github.com/MogutovaAnna/dataset/blob/22725996a4d4490d23a2e198d89d6f97db704467/NYT_Russia_1991_2022(1).csv |
 |`Формат данных`| csv |
-|`Описание структуры набора данных`| какой-то номер |
-|`Дата первой публикации`| Visa-free travel (where number of days is unknown or not applicable, such as freedom of movement), including tourist registration requirement for Seychelles|
-|`Дата последнего внесения изменений`| Destinations that grant visa on arrival, basically visa-free |
-|`Дата актуальности набора данныхх`| Includes  [ESTA](https://esta.cbp.dhs.gov/) (Electronic System for Travel Authorization for the USA) and [eTA](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta.html) (Electronic Travel Authorization for Canada), eVisas, [eVisitors](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/evisitor-651) in Australia, [eTourist cards](https://www.surinametourism.sr/tourist-card/) for Suriname, pre-enrollment for Ivory Coast, and UK's [electronic visa waivers](https://www.gov.uk/get-electronic-visa-waiver) |
+|`Описание структуры набора данных`| Структура состоит из полей: headline — заголовок, date — дата публикации, doc_type — тип публикации, material_type — тип материала (новости, саммари, редакторская колонка и др.), section — секция, keywords — ключевые слова, abstract — абстракт (краткое содержание материала), lead — лид, word_count — количество слов|
+|`Дата первой публикации`| 25.03.2023 |
+|`Дата последнего внесения изменений`| 26.03.2023 |
+|`Дата актуальности набора данныхх`| 26.03.2023 |
 |`Содержание последнего изменения`| Obtaining a visa is required for travel. Includes Cuba's tourist cards |
 |`Ключевые слова (Keywords)`| Travelling is banned for most people. This is perhaps the most dynamic category right now, with varying exemptions|
 |`Гиперссылки (URL) на версии набора данных`| Includes rare tricky situations, such as war conflicts |
