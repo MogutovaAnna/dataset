@@ -18,5 +18,4 @@
 |`Содержание последнего изменения`| Obtaining a visa is required for travel. Includes Cuba's tourist cards |
 |`Ключевые слова (Keywords)`| Travelling is banned for most people. This is perhaps the most dynamic category right now, with varying exemptions|
 |`Гиперссылки (URL) на версии набора данных`| Includes rare tricky situations, such as war conflicts |
-|`Гиперссылка (URL) на набор`| Fan ID for the FIFA World Cup 2022 to enter Qatar in Nov-Dec 2022 |
 |`Гиперссылки (URL) на версии структуры набора данных`| where passport=destination|
